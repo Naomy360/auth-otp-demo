@@ -49,11 +49,6 @@ Handles OTP generation, email delivery, verification, JWT authentication, and pr
 * CORS configuration for cross-origin cookie support
 * Correct HTTP status code usage
 
-### Confidential Information Handling
-
-* Environment variables for secrets (`EMAIL_USER`, `EMAIL_PASS`, `SECRET_KEY`)
-* No secrets in source control
-
 ---
 
 ## Test Plan Summary
