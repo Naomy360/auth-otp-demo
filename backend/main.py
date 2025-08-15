@@ -13,7 +13,7 @@ from utils import create_jwt_token, get_current_user_from_cookie, SECRET_KEY
 # Environment-based cookie settings
 IS_PROD = os.getenv("ENV", "dev") == "prod"
 COOKIE_SECURE = IS_PROD      # True in production, False locally
-COOKIE_SAMESITE = "Strict" if IS_PROD else "Lax"
+COOKIE_SAMESITE = "None" if IS_PROD else "Lax"
 
 # Create tables
 models.Base.metadata.create_all(bind=engine)
