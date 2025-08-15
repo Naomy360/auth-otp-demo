@@ -6,7 +6,14 @@ Handles OTP generation, email delivery, verification, JWT authentication, and pr
 
 ---
 
+<img width="943" height="259" alt="Screenshot 2025-08-14 at 7 31 41 PM" src="https://github.com/user-attachments/assets/8a87d4ef-4bd0-47fd-8823-a65d70b370e9" />
+<img width="808" height="389" alt="Screenshot 2025-08-14 at 8 36 03 PM" src="https://github.com/user-attachments/assets/7dc878a3-8ec8-4ffb-af46-e7959a2e90dd" />
+
+
+
 ## Features
+
+
 
 * **Request OTP** via email
 * **Verify OTP** with automatic login
