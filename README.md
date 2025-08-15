@@ -91,5 +91,3 @@ Handles OTP generation, email delivery, verification, JWT authentication, and pr
 
 ---
 
-I can now make you a **Postman collection** section in here so your QA testing work is also visible to recruiters.
-Do you want me to add that?
