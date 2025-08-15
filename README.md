@@ -6,10 +6,6 @@ Handles OTP generation, email delivery, verification, JWT authentication, and pr
 
 ---
 
-<img width="943" height="259" alt="Screenshot 2025-08-14 at 7 31 41 PM" src="https://github.com/user-attachments/assets/72914d76-9f73-4457-8b2c-dc76cab73d7a" />
-
-
-<img width="808" height="389" alt="Screenshot 2025-08-14 at 8 36 03 PM" src="https://github.com/user-attachments/assets/d624c5d9-108c-4bb9-8da7-ea7a9236fddb" />
 
 ## Features
 
@@ -70,6 +66,9 @@ Handles OTP generation, email delivery, verification, JWT authentication, and pr
 | Protected Route Access    | Security    | Only works if logged in                |
 | Logout                    | Functional  | Clears cookies, blocks protected route |
 | Token Refresh             | Integration | New access token issued                |
+
+<img width="943" height="259" alt="Screenshot 2025-08-14 at 7 31 41 PM" src="https://github.com/user-attachments/assets/72914d76-9f73-4457-8b2c-dc76cab73d7a" />
+
 
 ---
 
